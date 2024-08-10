@@ -5,9 +5,7 @@
 - 📫 Entre em contato por: matheusluizn2407@outlook.com ou https://www.linkedin.com/in/matheus-luiz-383b3a215/
 - 😄 Pronomes: Ele/Dele
 
--->
-
-### Minhas principais linguagens >
+### Minhas principais linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
